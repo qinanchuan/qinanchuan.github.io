@@ -1,17 +1,17 @@
 # Site settings
-title: David.Chen_Blog
+title: QIN_WEB博客
 description: 学习套路，找到方法
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 #baseurl: "/Blog" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: David.Chen
-user_description: 一个攀登者
+username: QIN.Web
+user_description: 勇者无敌
 user_title: 嵌入式开发人员
-email: 1053199284@qq.com
-twitter_username: David_Chenxx
-github_username:  DavidxxChen
+email: 2594217333@qq.com
+twitter_username: QIN_WEB
+github_username:  QIN_WEB
 gplus_username:  116905260298152875833
 
 # Google-analytics
